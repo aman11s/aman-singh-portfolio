@@ -79,3 +79,40 @@ hr {
 .navigation .link-active {
     font-weight: bold;
 }
+
+.hero {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.hero .hero-img {
+    max-width: 400px;
+    display: block;
+    margin: 3rem;
+}
+
+.hero .projects-img {
+    max-width: 500px;
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero .blogs-img {
+    max-width: 400px;
+    padding-top: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.hero .hero-heading {
+    padding: 3rem;
+    color: var(--dark-grey);
+    font-size: 3rem;
+    margin: 4rem;
+    
+}
