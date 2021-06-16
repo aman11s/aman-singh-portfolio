@@ -10,3 +10,17 @@ body {
     font-family: 'Raleway', sans-serif;
     margin: 0 5rem;
 }
+
+hr {
+    margin: 2rem 0rem;
+}
+
+.container {
+    padding: 0rem 1rem;
+}
+
+.centered-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
