@@ -91,6 +91,7 @@ hr {
     max-width: 400px;
     display: block;
     margin: 3rem;
+    width: 100%;
 }
 
 .hero .projects-img {
@@ -99,6 +100,7 @@ hr {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
 }
 
 .hero .blogs-img {
@@ -115,7 +117,6 @@ hr {
     color: var(--dark-grey);
     font-size: 3rem;
     margin: 4rem;
-    
 }
 
 .section {
