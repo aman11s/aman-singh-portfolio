@@ -24,3 +24,25 @@ hr {
     margin: auto;
     text-align: center;
 }
+
+.link {
+    padding: 0.5rem 1rem;
+    
+}
+
+.link-primary {
+    background-color: var(--primary-color);
+    border-radius: 1rem;
+    color: white;
+    display: inline-block;
+    margin: 0.5rem;
+
+}
+
+.link-secondary {
+    color: var(--primary-color);
+    border-radius: 1rem;
+    border: 1px solid var(--primary-color);
+    display: inline-block;
+    margin: 0.5rem;
+}
