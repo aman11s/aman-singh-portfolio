@@ -36,6 +36,7 @@ hr {
     color: white;
     display: inline-block;
     margin: 0.5rem;
+    text-decoration: none;
 
 }
 
@@ -45,6 +46,7 @@ hr {
     border: 1px solid var(--primary-color);
     display: inline-block;
     margin: 0.5rem;
+    text-decoration: none;
 }
 
 .list-non-bullet {
@@ -65,12 +67,14 @@ hr {
 
 .navigation .link {
     color: white;
+    text-decoration: none;
 }
 
 .navigation .nav-brand {
     font-weight: bold;
     font-size: 1.1rem;
     color: white;
+    text-decoration: none;
 }
 
 .navigation .nav-pills {
@@ -143,6 +147,7 @@ hr {
 
 .footer .link {
     color: white;
+    text-decoration: none;
 }
 
 .footer ul {
