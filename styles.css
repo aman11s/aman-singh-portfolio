@@ -167,7 +167,7 @@ hr {
     max-width: 40px;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 800px) {
 
     .hero .hero-heading {
         padding: 1rem;
@@ -192,7 +192,7 @@ hr {
     }
 }
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 414px) {
 
     body {
         margin: 0 25px;
@@ -209,5 +209,24 @@ hr {
 
     main ul {
         padding-inline-start: 0;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    
+    .hero .hero-heading {
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    
+    .navigation ul {
+        padding-inline-start: 0;
+    }
+
+    .hero .hero-heading {
+        padding: 2px;
+        font-size: 26px;
     }
 }
