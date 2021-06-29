@@ -158,14 +158,17 @@ hr {
 
 .logo-twitter {
     max-width: 40px;
+    padding: 10px;
 }
 
 .logo-github {
     max-width: 40px;
+    padding: 10px;
 }
 
 .logo-linkedin {
     max-width: 40px;
+    padding: 10px;
 }
 
 @media screen and (max-width: 800px) {
