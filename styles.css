@@ -100,7 +100,7 @@ hr {
 }
 
 .hero .projects-img {
-    max-width: 500px;
+    max-width: 450px;
     padding-top: 2rem;
     display: block;
     margin-left: auto;
@@ -109,7 +109,7 @@ hr {
 }
 
 .hero .blogs-img {
-    max-width: 400px;
+    max-width: 375px;
     padding-top: 2rem;
     display: block;
     margin-left: auto;
