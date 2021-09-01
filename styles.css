@@ -149,26 +149,17 @@ hr {
 .footer i {
     color: white;
     font-size: 3rem;
-    padding: 1rem;
+    margin: 1rem;
 }
 
 .footer ul {
     padding-inline-start: 0px;
 }
 
-.logo-twitter {
-    max-width: 40px;
-    padding: 10px;
-}
-
-.logo-github {
-    max-width: 40px;
-    padding: 10px;
-}
-
-.logo-linkedin {
-    max-width: 40px;
-    padding: 10px;
+.iconify {
+    font-size: 40px;
+    margin: 0 1rem;
+    color: #FFFFFF;
 }
 
 @media screen and (max-width: 800px) {
@@ -213,6 +204,12 @@ hr {
 
     .footer i {
         font-size: 2rem;
+        margin: 0.9rem;
+    }
+
+    .iconify {
+        font-size: 26px;
+        margin: 0 0.9rem;
     }
 }
 
@@ -220,6 +217,14 @@ hr {
     
     .hero .hero-heading {
         font-size: 27px;
+    }
+
+    .footer i {
+        margin: 0.6rem;
+    }
+
+    .iconify {
+        margin: 0 0.6rem;
     }
 }
 
