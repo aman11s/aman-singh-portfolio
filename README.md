@@ -27,4 +27,4 @@ This website showcase my work. It includes projects, blogs and my contact detail
 
 ---
 
-### If you like this repository please give a ⭐ in the top right corner.
+### If you like this repository please give a ⭐ in the top right corner. 😊
